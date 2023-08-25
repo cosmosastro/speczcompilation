@@ -20,14 +20,28 @@ Citing the Compilation:
 	
 Khostovan et al., in prep
 
-A paper is currently in the process of being written that, upon acceptance for publication, will make this compilation publicly available for the astronomical community to use for their specific science cases/goals/analyses. In the meantime, we request that the compilation is referred to in publications as shown above until the main paper is ready for publication.
+A paper is currently in the process of being written that, upon acceptance for publication, 
+will make this compilation publicly available for the astronomical community to use for their 
+specific science cases/goals/analyses. In the meantime, we request that the compilation is 
+referred to in publications as shown above until the main paper is ready for publication.
 
 Usage Policy:
 
-This catalog was made possible by the tremendous hard work of every person who was involved with the sample selection, mask designs, observations, data reductions, and subsequent analysis. References to each dataset are provided to give the appropriate credit and also PI/first author contact information in case there are questions regarding a specific source and/or data set.
-Unless communicated with the relevant PI, we ask that sources flagged as PRIVATE are not used for any detailed analysis of individual galaxies and only used for population level calibrations (e.g., checking contamination of sample, photo-z calibrations,  etc.).
-We ask that this compilation stays within the COSMOS Team until it is ready for public release with the publication of the compilation paper.
-We ask that all users of this compilation, as a courtesy, invite COSMOS collaboration PIs of datasets in all publications that use the corresponding spectroscopic redshifts.
+This catalog was made possible by the tremendous hard work of every person who was involved 
+with the sample selection, mask designs, observations, data reductions, and subsequent analysis. 
+References to each dataset are provided to give the appropriate credit and also PI/first author 
+contact information in case there are questions regarding a specific source and/or data set.
+
+Unless communicated with the relevant PI, we ask that sources flagged as PRIVATE are not used 
+for any detailed analysis of individual galaxies and only used for population level calibrations 
+(e.g., checking contamination of sample, photo-z calibrations,  etc.).
+
+We ask that this compilation stays within the COSMOS Team until it is ready for public release 
+with the publication of the compilation paper.
+
+We ask that all users of this compilation, as a courtesy, invite COSMOS collaboration PIs of 
+datasets in all publications that use the corresponding spectroscopic redshifts.
+
 Adopted Quality Assessment Flagging System:
 
 Flag 4 very reliable redshift (confidence level >97%)
