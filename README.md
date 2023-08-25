@@ -122,4 +122,4 @@ Fits Column Definitions:
 
      23) photo-z 		COSMOS2020 Classic Photo-z LePhare 
 
-     24) photo-z type		0: Galaxy; 1: star; 2: Xray source; -9: failure in fit
+     24) photo-z type	0: Galaxy; 1: star; 2: Xray source; -9: failure in fit
