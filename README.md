@@ -96,17 +96,17 @@ Fits Column Definitions:
 
      10) Confidence level	Confidence Levels associated with Quality Flag (details above)
 
-     11) survey			Integer Value Associated with Survey ID in list_surveys.dat 
+     11) survey		Integer Value Associated with Survey ID in list_surveys.dat 
 
      12) compilation year	Past versions of the compilation were these sources introduced	
   
-     13) public/private 		1 = PUBLIC, 0 = PRIVATE
+     13) public/private 	1 = PUBLIC, 0 = PRIVATE
 
      14) Id Classic		COSMOS2020 Classic Identification
 
      15) ra Classic		COSMOS2020 Classic Right Ascension (deg)
 
-     16) dec Classic		COSMOS2020 Classic Declination (deg)
+     16) dec Classic	COSMOS2020 Classic Declination (deg)
 
      17) Id Farmer		COSMOS2020 Farmer Identification
 
