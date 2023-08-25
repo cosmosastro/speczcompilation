@@ -78,15 +78,15 @@ Fits Column Definitions:
 
      1) Id spec-z		Assigned Unique Identification in the Compilation
 
-     2) Id original	Original Identification of the source
+     2) Id original		Original Identification of the source
 
-     3) ra original	Original Right Ascension (deg)
+     3) ra original		Original Right Ascension (deg)
 
      4) dec original	Original Declination (deg)
 
-     5) ra corrected		Astrometry Corrected	Right Ascension (deg)
+     5) ra corrected	Astrometry Corrected	Right Ascension (deg)
 
-     6) Dec corrected		Astrometry Corrected	Declination (deg)
+     6) Dec corrected	Astrometry Corrected	Declination (deg)
 
      7) Priority		Flag 1: Use this redshift, especially in case of duplicate sources
 
