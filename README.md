@@ -7,21 +7,21 @@ v1.0	23 August 2023 	– Initial Release
 
 Main Contact: 
 
-Ali Ahmad Khostovan akhostov@gmail.com
+     Ali Ahmad Khostovan akhostov@gmail.com
 
 Other Contacts: 
 
-Jeyhan Kartaltepe	jeyhan@astro.rit.edu 
+     Jeyhan Kartaltepe	jeyhan@astro.rit.edu 
 
-Olivier Ilbert 		olivier.ilbert@lam.fr 
+     Olivier Ilbert 		olivier.ilbert@lam.fr 
 
-Mara Salvato		mara@mpe.mpg.de
+     Mara Salvato		mara@mpe.mpg.de
 
-Caitlin Casey		cmcasey@utexas.edu 
+     Caitlin Casey		cmcasey@utexas.edu 
 
 Citing the Compilation: 
 	
-Khostovan et al., in prep
+     Khostovan et al., in prep
 
 A paper is currently in the process of being written that, upon acceptance for publication, 
 will make this compilation publicly available for the astronomical community to use for their 
@@ -47,13 +47,19 @@ datasets in all publications that use the corresponding spectroscopic redshifts.
 
 Adopted Quality Assessment Flagging System:
 
-Flag 4 very reliable redshift (confidence level >97%)
-Flag 3 reliable redshift (confidence level > 95%)
-Flag 9 single line only, with a good S/N, but nothing else (confidence level  > 85%)
-Flag 2 intermediate (confidence level >80%)
-Flag 1 tentative measurement (confidence level >50%)
-Flag 0 No measurement
-Flag + 10 indicated broad line feature
+     Flag 4 very reliable redshift (confidence level >97%)
+
+     Flag 3 reliable redshift (confidence level > 95%)
+
+     Flag 9 single line only, with a good S/N, but nothing else (confidence level  > 85%)
+
+     Flag 2 intermediate (confidence level >80%)
+
+     Flag 1 tentative measurement (confidence level >50%)
+
+     Flag 0 No measurement
+
+     Flag + 10 indicated broad line feature
 
 Associated Files:
 
@@ -71,26 +77,49 @@ list_surveys.dat: List of all surveys in the compilation with the first column b
 Fits Column Definitions:
 
 Id spec-z		Assigned Unique Identification in the Compilation
+
 Id original		Original Identification of the source
+
 ra original		Original Right Ascension (deg)
+
 dec original		Original Declination (deg)
+
 ra corrected		Astrometry Corrected	Right Ascension (deg)
+
 Dec corrected		Astrometry Corrected	Declination (deg)
+
 Priority		Flag 1: Use this redshift, especially in case of duplicate sources
+
 spec-z 			Spectroscopic Redshift
+
 flag 			Quality Assessment Flag (details defined above)
+
 Confidence level	Confidence Levels associated with Quality Flag (details above)
+
 survey			Integer Value Associated with Survey ID in list_surveys.dat 
+
 compilation year	Past versions of the compilation were these sources introduced	
+
 public/private 		1 = PUBLIC, 0 = PRIVATE
+
 Id Classic		COSMOS2020 Classic Identification
+
 ra Classic		COSMOS2020 Classic Right Ascension (deg)
+
 dec Classic		COSMOS2020 Classic Declination (deg)
+
 Id Farmer		COSMOS2020 Farmer Identification
+
 ra Farmer		COSMOS2020 Farmer Right Ascension (deg)
+
 dec Farmer		COSMOS2020 Farmer Declination (deg)	
+
 Id COSMOS09 	COSMOS2009 i-band Identification
+
 ra COSMOS09	COSMOS2009 i-band Right Ascension (deg)
+
 dec COSMOS09	COSMOS2009 i-band Declination (deg)	
+
 photo-z 		COSMOS2020 Classic Photo-z LePhare 
+
 photo-z type		0: Galaxy; 1: star; 2: Xray source; -9: failure in fit
