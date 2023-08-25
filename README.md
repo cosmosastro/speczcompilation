@@ -78,11 +78,11 @@ Fits Column Definitions:
 
      1) Id spec-z		Assigned Unique Identification in the Compilation
 
-     2) Id original		Original Identification of the source
+     2) Id original	Original Identification of the source
 
-     3) ra original		Original Right Ascension (deg)
+     3) ra original	Original Right Ascension (deg)
 
-     4) dec original		Original Declination (deg)
+     4) dec original	Original Declination (deg)
 
      5) ra corrected		Astrometry Corrected	Right Ascension (deg)
 
@@ -90,9 +90,9 @@ Fits Column Definitions:
 
      7) Priority		Flag 1: Use this redshift, especially in case of duplicate sources
 
-     8) spec-z 			Spectroscopic Redshift
+     8) spec-z 		Spectroscopic Redshift
 
-     9) flag 			Quality Assessment Flag (details defined above)
+     9) flag 		Quality Assessment Flag (details defined above)
 
      10) Confidence level	Confidence Levels associated with Quality Flag (details above)
 
@@ -122,4 +122,4 @@ Fits Column Definitions:
 
      23) photo-z 		COSMOS2020 Classic Photo-z LePhare 
 
-     photo-z type		0: Galaxy; 1: star; 2: Xray source; -9: failure in fit
+     24) photo-z type		0: Galaxy; 1: star; 2: Xray source; -9: failure in fit
