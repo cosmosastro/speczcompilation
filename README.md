@@ -12,8 +12,11 @@ Ali Ahmad Khostovan akhostov@gmail.com
 Other Contacts: 
 
 Jeyhan Kartaltepe	jeyhan@astro.rit.edu 
+
 Olivier Ilbert 		olivier.ilbert@lam.fr 
+
 Mara Salvato		mara@mpe.mpg.de
+
 Caitlin Casey		cmcasey@utexas.edu 
 
 Citing the Compilation: 
