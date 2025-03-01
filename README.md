@@ -95,8 +95,8 @@ We also ask if users like to discuss ideas, potential improvements, etc. to post
 
 Feel free to reach us at `cosmosleadership [at] gmail [dot] com`
 
-Ali Ahmad Khostovan (main point-of-contact)
-Jeyhan Kartaltepe	
-Olivier Ilbert 	
-Mara Salvato		
+Ali Ahmad Khostovan (main point-of-contact) <br>
+Jeyhan Kartaltepe <br>	
+Olivier Ilbert  <br>	
+Mara Salvato	 <br>	
 Caitlin Casey		
