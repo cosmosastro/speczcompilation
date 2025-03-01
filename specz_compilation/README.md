@@ -7,6 +7,7 @@ The compilation consists of three key files:
 
 For convenience, we outline the survey information with links to their respective publications. In the case only a portion of the compilation is used, we highly encourage users (if possible) to cite the references associated with the programs for which the redshifts are drawn from in addition to our compilation publication.
 
+<div style="overflow-x:auto; font-size: 12px;">
 
 | Survey ID  | Survey Name    | Telescope/Instrument        | Redshift Range  | # of Galaxies | Reference(s) or PI |
 | -----------| -------------- |  ---------------------      | --------------- |  ------------ |  ---------------   |  
@@ -43,7 +44,7 @@ For convenience, we outline the survey information with links to their respectiv
 |  31        | FMOS--COSMOS   | Subaru/FMOS                 | 0.37 -- 4.64    |  988          | [Kartaltepe et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..35K/abstract) | 
 |  32        | FMOS--COSMOS   | Subaru/FMOS                 | 0.70 -- 2.59    |  5484         | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) |
 |  33        | --             | Subaru/FMOS                 | 0.60 -- 1.45    |  539          | PI: Tohru Nagao |
-|  34        | --             | Subaru/FMOS                 | 0.68 -- 1.57    |  85           | [Roseboom et al. (2012)])(https://ui.adsabs.harvard.edu/abs/2012MNRAS.426.1782R/abstract) |
+|  34        | --             | Subaru/FMOS                 | 0.68 -- 1.57    |  85           | [Roseboom et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012MNRAS.426.1782R/abstract) |
 |  35        | --             | Subaru/FOCAS                | 0.05 -- 3.88    |  114          | PI: Tohru Nagao |
 |  36        | --             | VLT/FORS2                   | 0.08 -- 5.49    |  1767         | [Comparat et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015A%26A...575A..40C/abstract) |
 |  37        | --             | VLT/FORS2                   | 2.44 -- 2.45    |  11           | [Diener et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJ...802...31D/abstract) |
@@ -118,3 +119,5 @@ For convenience, we outline the survey information with links to their respectiv
 | 106        | zCOSMOS Bright | VLT/VIMOS                   | 0.00 -- 4.45    |  20716        | [Lilly et al. (2007)](https://ui.adsabs.harvard.edu/abs/2007ApJS..172...70L/abstract), [2009](https://ui.adsabs.harvard.edu/abs/2009ApJS..184..218L/abstract) |
 | 107        | zCOSMOS Deep   | VLT/VIMOS                   | 0.00 -- 4.25    |  9371         | PI: Simon Lilly |
 | 108        | zFIRE          | Keck/MOSFIRE                | 1.97 -- 3.53    |  216          | [Nanayakkara et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJ...828...21N/abstract) |  
+
+</div>
