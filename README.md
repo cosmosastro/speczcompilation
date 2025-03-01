@@ -1,10 +1,24 @@
 # COSMOS Spectroscopic Redshift Compilation
-<i><font size="5">Collection of ~ 20 years worth of Published Spectroscopic Redshifts</font></i>
+<!--- <i><font size="5">Collection of ~ 20 years worth of Published Spectroscopic Redshifts</font></i>
 <div>
-  <img src="cosmos-logo.png" alt="Image 1" style="width: 20%; display: inline-block; margin-right: 10px;">
+  <img src="cosmos-logo.png" alt="Image 1" style="width: 40%; display: inline-block; margin-right: 10px;">
 </div>
 
-Welcome to the COSMOS Spectroscopic Redshift Compilation Data Release GitHub. 
+<picture>
+  <source srcset="cosmos-logo-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="cosmos-logo-light.png" alt="Logo">
+</picture>
+--->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/cosmosastro/speczcompilation/logo/cosmos-logo-dark.png#gh-dark-mode-only" width="200">
+  <img src="https://raw.githubusercontent.com/cosmosastro/speczcompilation/logo/cosmos-logo-light.png#gh-light-mode-only" width="200">
+</p>
+
+[![arXiv](https://img.shields.io/badge/arXiv-ZZZ.ZZZ-green)](ZZZ)
+[![DOI](https://img.shields.io/badge/DOI-ZZZ.ZZZ-green)](ZZZ)
+
+**Welcome to the COSMOS Spectroscopic Redshift Compilation Data Release GitHub.**
+
 
 
 In this repository, we provide our compilation of all published redshifts within the 2 deg<sup>2</sup> COSMOS legacy field for the community to use in support of their science as well as for calibration purposes. We refer users to the main paper (LINK AS WELL) Khostovan et al. (2025) for details on how the compilation was designed. All datasets included in the compilation are astrometrically corrected to best match with GAIA DR1 (based on the COSMOS2020 Classic catalog; Weaver et al. 2022 LINK PAPER). Quality flags assigned to sources are also normalized to our specific quality assessment flag system.
@@ -22,7 +36,7 @@ The Compilation is comprised of four main files:
      - A LaTeX longtable that shows the numerical ID of each survey as well as the paper/publication reference.
 
 
-# Ancillary Measurements
+## Ancillary Measurements
 
 ### Spectral Energy Distribution (SED) Fitting
 
@@ -40,7 +54,7 @@ This is an unsupervised machine learning approach that allows for the visualizat
 We provide the trained maps so that users may be able to invesigate it in respect to the compilation as well as to their own datasets (which we encourage that it be shared with the compilation if intended to be made public). Thereby, we hope that the trained soms could enable studies of populatations that have either *never been observed* or  *never extensively observed* in the past.
 
 
-# Citation
+## Citation
 
 We ask users to cite the following publication:
 - Khostovan et al. (2025) LINK HERE
@@ -49,7 +63,7 @@ This catalog was made possible by the tremendous hard work of every person who w
 We understand that this may not be entirely possible especially in the case where a sizable number of redshifts are used. However, we highly encourage users who use redshifts from a few programs to not only cite our main compilation paper but also all those associated with the few programs. This information can be found within ZZZ
 
 
-# Quality Assessment Flagging System
+## Quality Assessment Flagging System
 
 The quality assessment flag system that we adopt is based on a 0 - 4, 9 scale with an additional +10 for the case of broad line features identified within the 1D and 2D spectra.
 
@@ -67,18 +81,18 @@ In forming the compilation, each original dataset that is included has the origi
 
 
 
-# Have a Dataset you want to add?
+## Have a Dataset you want to add?
 
 The COSMOS Spectroscopic Redshift Compilation is meant to be a lasting and continuously evolving legacy resource for the community encompassing the tremendous amount of spectroscopic data and the hardwork of all those involved in proposal writing, observations, data gathering, reduction, and analysis. As such, we highly recommend for all members of the community to send us any past and new spectroscopic redshift datasets that are currently not included in the compilation. We will periodically investigate catalog archives, publications, survey websites, and various other resources for new data that comes in. However, with your support, we can append data that we potentially miss in our own search into this single large, ever evolving, legacy resource.
 
-Please contact Ali Ahmad Khostovan (main point-of-contact) if you have a dataset you wish to provide. The format we require are the following:
-ID, RA, DEC, spectroscopic redshift, quality flag, associated publication(s)
+Please contact Ali Ahmad Khostovan (main point-of-contact) if you have a dataset you wish to provide. The format we require are the following:\
+&nbsp;&nbsp;&nbsp;*ID, RA, DEC, spectroscopic redshift, quality flag, associated publication(s)*
 
 We also require definitions for the quality flags and may requrie further discussion to properly convert your original quality flag system to the one we adopt.
 
 
 
-# Issues and or Ideas?
+## Issues and/or Ideas?
 
 We ask all users that have any issues with the compilation to open a ticket with the "issues" section of the github repository.
 
@@ -86,7 +100,7 @@ We also ask if users like to discuss ideas, potential improvements, etc. to post
 
 
 
-# Contact Us
+## Contact Us
 
 Maybe I should make a single e-mail address that can be transferred?
 
