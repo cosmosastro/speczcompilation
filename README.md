@@ -4,17 +4,17 @@
   <img src="logo/cosmos-logo-light.png#gh-light-mode-only" width="400">
 </p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-ZZZ.ZZZ-green)](ZZZ)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.00120-green)]([ZZZ](http://arxiv.org/abs/2503.00120))
 [![DOI](https://img.shields.io/badge/DOI-ZZZ.ZZZ-green)](ZZZ)
 
 **Welcome to the COSMOS Spectroscopic Redshift Compilation Data Release GitHub.**
 
 
 
-In this repository, we provide our compilation of all published redshifts within the 2 deg<sup>2</sup> COSMOS legacy field for the community to use in support of their science as well as for calibration purposes. We refer users to the main paper [Khostovan et al. (2025)](ZZZ) for details on how the compilation was designed. All datasets included in the compilation are astrometrically corrected to best match with GAIA DR1 (based on the COSMOS2020 Classic catalog; [Weaver et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJS..258...11W/abstract)). Quality flags assigned to sources are also normalized to our specific quality assessment flag system.
+In this repository, we provide our compilation of all published redshifts within the 2 deg<sup>2</sup> COSMOS legacy field for the community to use in support of their science as well as for calibration purposes. We refer users to the main paper [Khostovan et al. (2025)](http://arxiv.org/abs/2503.00120) for details on how the compilation was designed. All datasets included in the compilation are astrometrically corrected to best match with GAIA DR1 (based on the COSMOS2020 Classic catalog; [Weaver et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJS..258...11W/abstract)). Quality flags assigned to sources are also normalized to our specific quality assessment flag system.
 
 
-The Compilation is comprised of four main files:
+The Compilation is comprised of 3 main files:
 
 - `specz_compilation_COSMOS_DR1.xx_all.fits`
      - This encompasses all redshift measurements collected
@@ -27,7 +27,7 @@ The Compilation is comprised of four main files:
 
 ### Spectral Energy Distribution (SED) Fitting
 
-SED fitting results using both CIGALE and LePHARE can be found within `sed_fitting` folder. This was done on a subset of sources that had matches with the COSMOS2020 Classic catalog and also were flagged as having quality flags, Q<sub>f</sub>, of 3 or 4 ('high quality/reliable'). SED fits were done using the available photometry from CFHT/*u* to *Spitzer*/IRAC with redshifts fixed to the spectroscopic redshift listed in the compilation.
+SED fitting results using both CIGALE and LePHARE can be found within `sed_fitting` folder. This was done on a subset of sources that had matches with the COSMOS2020 Classic catalog and also were flagged as having quality flags, *Q<sub>f</sub>*, of 3 or 4 ('high quality/reliable'). SED fits were done using the available photometry from CFHT/*u* to *Spitzer*/IRAC with redshifts fixed to the spectroscopic redshift listed in the compilation.
 
 Our SED-derived physical property measurements are compiled within `sed_fitting/cigale/cigale_results_specz_compilation_DR1.xx.fits` and  `sed_fitting/lephare/lephare_results_specz_compilation_DR1.xx.fits`. We plan for future data releases (including minor updates) to include update SED fitting measurements as well.
 
@@ -48,7 +48,7 @@ We provide the trained maps so that users may be able to invesigate it in respec
 ## Citation
 
 We ask users to cite the following publication:
-- [Khostovan et al. (2025), submitted to ApJ](ZZZ); [arXiv:ZZZ](ZZZ)
+- Khostovan et al. (2025), submitted to ApJ; [arXiv:2503.00120](http://arxiv.org/abs/2503.00120)
 
 This catalog was made possible by the tremendous hard work of every person who was involved with the sample selection, mask designs, observations, data reductions, and subsequent analysis. References to each dataset are provided to give the appropriate credit and also PI/first author contact information in case there are questions regarding a specific source and/or data set.
 We understand that this may not be entirely possible especially in the case where a sizable number of redshifts are used. However, we highly encourage users who use redshifts from a few programs to not only cite our main compilation paper but also all those associated with the few programs. This information can be found within the README of the `specz_compilation` folder.

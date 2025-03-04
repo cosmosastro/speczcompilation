@@ -2,3 +2,6 @@ depreciated/
 
 # Remove the Cigale Results per Bin. These are already included in the full cigale results file (sed_fitting/cigale/cigale_results_specz_compilation_DR1.00.fits)
 sed_fitting/cigale/*/out/results.fits
+
+# Temporarily Ignore This
+examples/visualizing_LSS.ipynb
