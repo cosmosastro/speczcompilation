@@ -4,7 +4,7 @@
   <img src="logo/cosmos-logo-light.png#gh-light-mode-only" width="400">
 </p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2503.00120-green)]([ZZZ](http://arxiv.org/abs/2503.00120))
+[![arXiv](https://img.shields.io/badge/arXiv-2503.00120-green)](http://arxiv.org/abs/2503.00120)
 [![DOI](https://img.shields.io/badge/DOI-ZZZ.ZZZ-green)](ZZZ)
 
 **Welcome to the COSMOS Spectroscopic Redshift Compilation Data Release GitHub.**
