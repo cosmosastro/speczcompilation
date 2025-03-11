@@ -104,7 +104,7 @@ For convenience, we outline the survey information with links to their respectiv
 |  91        | --             | VLT/VIMOS                   | 0.69 -- 0.79    |  619          | [Iovino et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016A%26A...592A..78I/abstract) |
 |  92        | --             | VLT/VIMOS 		            | 0.89 -- 2.09    |  34           | [Gobat et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...599A..95G/abstract) |
 |  93        | VIS$^{3}$COS   | VLT/VIMOS                   | 0.02 -- 3.59    |  696          | [Paulino-Afonso et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.186P/abstract) |
-|  94        | VUDS           | VLT/VIMOS                   | 0.02 -- 6.44    |  4629         | [Le Fèvre et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015A%26A...576A..79L/abstract); [Tasca et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...600A.110T/abstract) | 
+|  94        | VUDS&ast;           | VLT/VIMOS                   | 0.02 -- 6.44    |  4629         | [Le Fèvre et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015A%26A...576A..79L/abstract); [Tasca et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...600A.110T/abstract) | 
 |  95        | WERLS          | Keck/MOSFIRE                | 3.52 -- 6.93    |  83           | PIs: Caitlin Casey & Jeyhan Kartaltepe |
 |  96        | WERLS          | Keck/MOSFIRE                | 0.51 -- 8.23    |  192          | [Cooper et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...970...50C/abstract) |
 |  97        | --             | {\it HST}/WFC3              | 2.39 -- 3.23    |  10           | [D'Eugenio et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..32D/abstract) |
@@ -119,5 +119,6 @@ For convenience, we outline the survey information with links to their respectiv
 | 106        | zCOSMOS Bright | VLT/VIMOS                   | 0.00 -- 4.45    |  20716        | [Lilly et al. (2007)](https://ui.adsabs.harvard.edu/abs/2007ApJS..172...70L/abstract), [2009](https://ui.adsabs.harvard.edu/abs/2009ApJS..184..218L/abstract) |
 | 107        | zCOSMOS Deep   | VLT/VIMOS                   | 0.00 -- 4.25    |  9371         | PI: Simon Lilly |
 | 108        | zFIRE          | Keck/MOSFIRE                | 1.97 -- 3.53    |  216          | [Nanayakkara et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJ...828...21N/abstract) |  
-
 </div>
+
+&ast; Note that the VUDS data only contains the DR1 release (~380 sources) while DR2 will fully contain 4629 sources in total. Given that the VUDS DR2 is still proprietary at the moment, we ask that if anyone is interested in using this specific dataset that they contact the VUDS team. In the meantime, placeholders are set for the VUDS DR2 targets (zspec = 100 and *Q<sub>f</sub>* = 100)

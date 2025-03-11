@@ -92,7 +92,7 @@
 91.0 VIMOSWALL Iovino_et_al_2016 PUBLIC angela.iovino@inaf.it 619 0.7234 0.7329 0.7525 0.6900 0.7897
 92.0 VIMOS   Gobat_et_al_2017   PUBLIC    raphael.gobat@pucv.cl 34 1.3011 1.4390 1.5593 0.8938 2.0892
 93.0 VIS3COS   PaulinoAfonso_et_al_2018   PUBLIC  asofiafonso@gmail.com 696 0.7477 0.8370 0.8810 0.0248 3.5905
-94.0 VUDS   Tasca_et_al_2022   PUBLIC   lidia.tasca@lam.fr 4629 0.7380 2.5805 3.4098 0.0195 6.4418
+94.0 VUDS   Tasca_et_al_2022   PUBLIC   lidia.tasca@lam.fr 4629 0.6919 2.5346 3.6386 0.0400 6.4418
 95.0 WERLS Casey_et_al_in_prep  PUBLIC  cmcasey@ucsb.edu 83 4.5920 5.1275 5.9856 3.5160 6.9265
 96.0 WERLS Cooper_et_al_2024  PUBLIC  ocooper@utexas.edu 192 0.6180 1.7800 1.9606 0.5060 8.2330
 97.0 WFC3 DEugenio_et_al_2021 PUBLIC francesco.deugenio@gmail.com  10 2.6045 2.7375 3.0686 2.3930 3.2300
