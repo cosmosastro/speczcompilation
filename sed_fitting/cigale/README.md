@@ -4,7 +4,8 @@ The CIGALE results FITS file has many columns which are general outputs for whic
 
 |   Property         |    best   |  bayes   |   Unit                  |       Description                              |
 | ----------------   | --------- | -------- |------------------------ | ---------------------------------------------- |
-| ID_COS20_Classic   |           |          |                         | COSMOS2020 Classic ID |             
+| ID_COS20_Classic   |           |          |                         | COSMOS2020 Classic ID |     
+| Id_specz           |           |          |                         | Specz Compilation ID according to DR1.1 |        
 | specz              |           |          |                         | Spectroscopic Redshift                |                    
 | chi_square         |  &check;  | &cross;  |                         | &chi;<sup>2</sup> of the Fit |
 | reduced_chi_square |  &check;  | &cross;  |                         | reduced &chi;<sup>2</sup> of the Fit |  

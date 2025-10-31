@@ -1,9 +1,11 @@
+# Remove tracking of old versions of the compilation
 depreciated/
+specz_compilation/depreciated/
+sed_fitting/cigale/depreciated/
+sed_fitting/lephare/depreciated/
 
 # Remove the Cigale Results per Bin. These are already included in the full cigale results file (sed_fitting/cigale/cigale_results_specz_compilation_DR1.00.fits)
-sed_fitting/cigale/*/out/results.fits
-sed_fitting/cigale/*/out/observations.fits
-sed_fitting/cigale/*/out/pcigale.ini.spec
+sed_fitting/cigale/*/results.fits
+sed_fitting/cigale/*/observations.fits
+#sed_fitting/cigale/*/out/pcigale.ini.spec
 
-# Temporarily Ignore This
-examples/visualizing_LSS.ipynb

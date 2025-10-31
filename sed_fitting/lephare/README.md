@@ -2,12 +2,12 @@
 
 |   Property       |       Unit                                      |       Description                              |
 | ---------------- | ----------------------------------------------- | ---------------------------------------------- |
-| id_COS20_Classic |                                                 | COSMOS2020 Classic ID                          |
-| zspec            |                                                 | spectroscopic redshift from compilation DR1.00 |
+| Id               |                                                 | COSMOS2020 Classic ID                          |
+| zs               |                                                 | spectroscopic redshift from compilation DR1.1  |
 | model            |                                                 | Best fit BC03 model at zPDF                    |
-| age              | log<sub>10</sub> yr                             | Age of Stellar Population                      |
-| ebv              |      mag                                        | Reddening                                      |
-| attenuation law  |                                                 | Best-Fit Attenuation Curve Used                |
+| age              | log<sub>10</sub> yr                             | Best fit BC03 model age at zPDF                      |
+| ebv              |      mag                                        | Best fit BC03 model E(B-V) at zPDF                                      |
+| attenuation law  |                                                 | Best fit BC03 model Attenuation law at zPDF               |
 | MFUV             |       mag                                       | Absolute Magnitude GALEX/FUV                   |
 | MNUV             |       mag                                       | Absolute Magnitude GALEX/NUV                   |
 | MU               |       mag                                       | Absolute Magnitude CFHT/U_new                  |
