@@ -5,7 +5,7 @@
 </p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.00120-%23006400)](http://arxiv.org/abs/2503.00120)
-[![DOI](https://img.shields.io/badge/DOI-ZZZ.ZZZ-red)](ZZZ)
+[![DOI](https://img.shields.io/badge/DOI-10.3847%2F1538--4365%2Fae1cb9-red)](https://doi.org/10.3847/1538-4365/ae1cb9)
 ![Current Version](https://img.shields.io/badge/Current%20Version-DR1.1-%234B9CD3)
 
 **Welcome to the COSMOS Spectroscopic Redshift Compilation Data Release GitHub.**
