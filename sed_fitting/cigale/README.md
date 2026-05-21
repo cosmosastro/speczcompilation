@@ -32,8 +32,8 @@ The CIGALE results FITS file has many columns which are general outputs for whic
 | param.restframe_Lnu(TopHat_1500_100) |      &check;  | &check;  | W Hz<sup>-1</sup> | Rest-frame 1500&#8491; Luminosity (*L<sub>&nu;</sub>*) measured in a TopHat Filter with width of 100&#8491; |
 | param.restframe_Lnu(*filter*) |      &check;  | &cross;  | W Hz<sup>-1</sup>  | Rest-frame *L<sub>&nu;</sub>* luminosity in a given filter |
 | sfh.sfr |      &check;  | &check;  |  M<sub>☉</sub> yr<sup>-1</sup> | Instantaneous Star Formation Rate |
-| sfh.sfr100Myrs |      &check;  | &check;  | M<sub>☉</sub> yr<sup>-1</sup> | Star Formation Rate within 10 Myrs |
-| sfh.sfr10Myrs |      &check;  | &check;  | M<sub>☉</sub> yr<sup>-1</sup> | Star Formation Rate within 100 Myrs |
+| sfh.sfr10Myrs |      &check;  | &check;  | M<sub>☉</sub> yr<sup>-1</sup> | Star Formation Rate within 10 Myrs |
+| sfh.sfr100Myrs |      &check;  | &check;  | M<sub>☉</sub> yr<sup>-1</sup> | Star Formation Rate within 100 Myrs |
 | stellar.m_gas |      &check;  | &check;  | M<sub>☉</sub> | Gas Mass |
 | stellar.m_star |      &check;  | &check;  |  M<sub>☉</sub> | Stellar Mass |
 | stellar.n_ly |      &check;  | &check;  |  photons s<sup>-1</sup> | Number of Hydrogen Ionizing Photons Produced |
